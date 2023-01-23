@@ -1,2 +1,2 @@
 # AP-Midhub-FrontEnd
-Capacitacion conjunto FrontEnd de Argentina Programa + MidHub
+Capacitacion conjunta FrontEnd de Argentina Programa + MidHub
