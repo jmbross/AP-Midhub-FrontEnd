@@ -45,9 +45,9 @@ div.menu {
   display: inline-block;
 }
 section {
-  display: inline-block;
+  
   margin-left: 90px;
-  margin-top: 50px;
+  margin-top: 20px;
 }
 li > a {
   text-decoration: none;
@@ -170,5 +170,15 @@ tr:hover td {
   color: #339;
 }
 .information{
-    margin-bottom: 20px;
+  
+  margin-bottom: 20px;
+}
+main{
+  display: block;
+}
+.contacto{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 40%;
 }
